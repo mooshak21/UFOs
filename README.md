@@ -1,8 +1,9 @@
 # Exploring UFO Sighting Data
 ## Overview
 
-> In this project we are using HTML, CSS, and different Javascript libraries to analyze UFO sightings with data that we are provided. We will use D3.js to allow us to transfer the array of js objects into a table on our index.html page. Our main goal is to add the appropriate filters on the HTML page that correspond to the characteristics of each sighting (city, country, state, date, shape). Using these filters we want an updated table that will correctly 
-filter the data based on the user's inputs to be returned. 
+> In this project we are using HTML, CSS, and different Javascript libraries to analyze UFO sightings with data that we are provided. We will use D3.js to allow us to transfer the array of js objects into a table on our index.html page. Our main goal is to add the appropriate filters on the HTML page that correspond to the characteristics of each sighting (city, country, state, date, shape). Using these filters we want an updated table that will correctly filter the data based on the user's inputs to be returned. 
+
+You can check out the site [here](https://mooshak21.github.io/UFOs/)
 ---
 
 ## Results
