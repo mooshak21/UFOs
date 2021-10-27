@@ -64,7 +64,6 @@ function updateFilters() {
     for([k,v] of Object.entries(filters)){
         filteredData = filteredData.filter(row => row[k] === v);
     }
-    console.log(filteredData);
     // 10. Finally, rebuild the table using the filtered data
     buildTable(filteredData);
   }
